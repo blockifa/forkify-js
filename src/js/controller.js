@@ -148,6 +148,6 @@ const init = function(){
   searchView.addHandlerSearch(controlSearchResults)
   paginatiionView.addHandlerClick(controlPagination)
   addRecipeView.addHadlerUpdate(controlAddRecipe)
-  console.log('welcome!')
+  console.log('fdgsfbg')
 }
 init()
